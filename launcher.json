@@ -1,0 +1,20 @@
+{
+   "D:\\APPS\\Calibre\\Calibre Portable\\calibre-portable.exe": {
+      "env_ini": "",
+      "exe_path": "D:\\APPS\\Calibre\\Calibre Portable\\calibre-portable.exe",
+      "title": "calibre-portable",
+      "tmpicon": ""
+   },
+   "D:\\APPS\\Calibre\\Calibre Portable\\ebook-edit-portable.exe": {
+      "env_ini": "",
+      "exe_path": "D:\\APPS\\Calibre\\Calibre Portable\\ebook-edit-portable.exe",
+      "title": "ebook-edit-portable",
+      "tmpicon": ""
+   },
+   "D:\\APPS\\Calibre\\Calibre Portable\\ebook-viewer-portable.exe": {
+      "env_ini": "",
+      "exe_path": "D:\\APPS\\Calibre\\Calibre Portable\\ebook-viewer-portable.exe",
+      "title": "ebook-viewer-portable",
+      "tmpicon": ""
+   }
+}
